@@ -1,3 +1,25 @@
-h1 {
-    color: #0066ff
-}
+.nav {
+    background-color: yellow; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+
+  body {
+    color: ;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  p {
+      text align: justify;
+  }
