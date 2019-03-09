@@ -32,6 +32,12 @@ p {
     color: #5d6d7e; 
 }
 
+p a {
+    text-decoration: none;
+    color: #2e86c1;
+    font-weight: normal;
+}
+
 .center {
     margin: auto;
     max-width: 400px;
