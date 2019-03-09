@@ -97,6 +97,14 @@ li a:hover, li a:active {
     color: #2e86c1
 }
 
+.avatar {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #2e86c1;
+}
+
 img {
     display: block;
     margin-left: auto;
